@@ -29,6 +29,7 @@ namespace VNDLYCodeChallenge
             Console.WriteLine("Enter the upper-right coordinates of the plateu in format '5 5'.");
             plateauSizeString = Console.ReadLine();
             inputType = "userSize";
+            Console.Clear();
 
             CheckInput(plateauSizeString, inputType);
             PrintPlateauGrid(plateauSize);
@@ -68,6 +69,7 @@ namespace VNDLYCodeChallenge
             } while (needsResponse);
 
             rovers.Add(rover);
+            UpdateGrid(rover);
             return;
         }
 
