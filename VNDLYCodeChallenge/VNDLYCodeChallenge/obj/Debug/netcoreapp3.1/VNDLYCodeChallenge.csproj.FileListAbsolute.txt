@@ -1,0 +1,13 @@
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\bin\Debug\netcoreapp3.1\VNDLYCodeChallenge.exe
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\bin\Debug\netcoreapp3.1\VNDLYCodeChallenge.deps.json
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\bin\Debug\netcoreapp3.1\VNDLYCodeChallenge.runtimeconfig.json
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\bin\Debug\netcoreapp3.1\VNDLYCodeChallenge.runtimeconfig.dev.json
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\bin\Debug\netcoreapp3.1\VNDLYCodeChallenge.dll
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\bin\Debug\netcoreapp3.1\VNDLYCodeChallenge.pdb
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\obj\Debug\netcoreapp3.1\VNDLYCodeChallenge.csprojAssemblyReference.cache
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\obj\Debug\netcoreapp3.1\VNDLYCodeChallenge.AssemblyInfoInputs.cache
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\obj\Debug\netcoreapp3.1\VNDLYCodeChallenge.AssemblyInfo.cs
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\obj\Debug\netcoreapp3.1\VNDLYCodeChallenge.csproj.CoreCompileInputs.cache
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\obj\Debug\netcoreapp3.1\VNDLYCodeChallenge.dll
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\obj\Debug\netcoreapp3.1\VNDLYCodeChallenge.pdb
+E:\AllenDeckert\Documents\GitHub\VNDLY-Code-Challenge\VNDLY-Code-Challenge\VNDLYCodeChallenge\VNDLYCodeChallenge\obj\Debug\netcoreapp3.1\VNDLYCodeChallenge.genruntimeconfig.cache
